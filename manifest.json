@@ -1,0 +1,10 @@
+{
+  "name": "Food log",
+  "short_name": "Food log",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EEF3F1",
+  "theme_color": "#EEF3F1",
+  "icons": [{"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]
+}
